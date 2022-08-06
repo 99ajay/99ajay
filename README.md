@@ -2,5 +2,5 @@
 
      I'am currently learning MERN full stack web development:
      Currently i am looking for SDE role 
-     How to reach me::
+     How to reach me:::
   
