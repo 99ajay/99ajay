@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react,javascript,java**
 
-- 📫 How to reach me **uietk008av@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
