@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **react,javascript,java**
 
-- 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/ajay_123_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajay_123_" height="30" width="40" /></a>
